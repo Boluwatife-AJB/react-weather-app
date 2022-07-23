@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <p>
-        Built by {''}
+        Built by
         <a href="https://boluwatife-ajb.github.io/Porfolio/">
           Boluwatife Ajose
         </a>
