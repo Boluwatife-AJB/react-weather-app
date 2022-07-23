@@ -91,4 +91,8 @@
   .weather-icon {
     width: 70px;
   }
+
+  .details {
+    padding-left: 10%;
+  }
 }
