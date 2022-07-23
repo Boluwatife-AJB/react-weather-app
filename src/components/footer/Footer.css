@@ -1,0 +1,14 @@
+.footer {
+  margin-top: 50px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+.footer a {
+  color: #00909e;
+}
+
+.footer a:hover {
+  color: #1b2a49;
+}
